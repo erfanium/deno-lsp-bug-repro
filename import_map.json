@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "denzo": "https://deno.land/x/denzo@0.1.0/mod.ts"
+  }
+}
